@@ -1,0 +1,16 @@
+main {
+  #postpage {
+    padding: 80px 0px;
+    .container {
+   
+      display: grid;
+      place-items: center;
+      form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 200px;
+      }
+    }
+  }
+}
